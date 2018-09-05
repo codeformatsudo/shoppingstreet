@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Lucida Grande', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+    font-size: 18px;
+    font-size: 1.8rem;
+
+    margin: 0;
+    padding: 0;
+
+    background: #000;
+}
+
+#map
+{
+    max-width: 95%;
+    height: 800px;
+}
+
+.ac-container lable
+{
+    font-size: 14px;
+    line-height: 14px; 
+
+    height: auto;
+    padding: 2px 5px;
+}
